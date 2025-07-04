@@ -1,0 +1,14 @@
+E:\C#\Fawry\ECommerce\Demo\bin\Debug\net8.0\Demo.exe
+E:\C#\Fawry\ECommerce\Demo\bin\Debug\net8.0\Demo.deps.json
+E:\C#\Fawry\ECommerce\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+E:\C#\Fawry\ECommerce\Demo\bin\Debug\net8.0\Demo.dll
+E:\C#\Fawry\ECommerce\Demo\bin\Debug\net8.0\Demo.pdb
+E:\C#\Fawry\ECommerce\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fawry\ECommerce\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+E:\C#\Fawry\ECommerce\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+E:\C#\Fawry\ECommerce\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+E:\C#\Fawry\ECommerce\Demo\obj\Debug\net8.0\Demo.dll
+E:\C#\Fawry\ECommerce\Demo\obj\Debug\net8.0\refint\Demo.dll
+E:\C#\Fawry\ECommerce\Demo\obj\Debug\net8.0\Demo.pdb
+E:\C#\Fawry\ECommerce\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+E:\C#\Fawry\ECommerce\Demo\obj\Debug\net8.0\ref\Demo.dll
